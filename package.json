@@ -1,0 +1,27 @@
+{
+  "name": "gs_micro_service",
+  "version": "1.0.0",
+  "description": "Based of rabbitMQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wormggmm/gs_micro_service.git"
+  },
+  "keywords": [
+    "micro",
+    "service",
+    "rabbitmq"
+  ],
+  "author": "wormggmm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wormggmm/gs_micro_service/issues"
+  },
+  "homepage": "https://github.com/wormggmm/gs_micro_service#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
